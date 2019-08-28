@@ -7,7 +7,7 @@
 #    author: Tyler Berkshire
 #    login id:  none
 #
-#    class:  CPS 352
+#    class:  CPS 452
 #    instructor:  Perugini
 #    assignment:  Homework #1
 #
